@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amymaney and I'm a Biomedical Engineering graduate!
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning everything! Would like to improve my C++ and languages I'd like to learn are Java, HTML, CSS and JavaScript
+- 🌱 I’m currently working as a Power Platform Developer but am still interested in learning new things.
 - 📫 email is amymaneyshaw@hotmail.com
 
 
